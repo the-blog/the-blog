@@ -1,7 +1,7 @@
 ## Ruby
 
 ### Обзор устройства компьютера
-* [Вычислительная часть и перефирийные устройства)](https://github.com/the-blog/the-blog/blob/master/pages/page-1.md)
+* [Вычислительная часть и перефирийные устройства](https://github.com/the-blog/the-blog/blob/master/pages/page-1.md)
 * [Процессор](https://github.com/the-blog/the-blog/blob/master/pages/page-2.md)
 * [Оперативная память](https://github.com/the-blog/the-blog/blob/master/pages/page-3.md)
 * [Жесткий диск](https://github.com/the-blog/the-blog/blob/master/pages/page-4.md)
