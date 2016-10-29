@@ -1,11 +1,11 @@
 ## Ruby
 
 ### Обзор устройства компьютера
-* Вычислительная часть и перефирийные устройства
-* Процессор
-* Оперативная память
-* Жесткий диск
-* Видео адаптер
+* [Вычислительная часть и перефирийные устройства)](https://github.com/the-blog/the-blog/blob/master/pages/page-1.md)
+* [Процессор](https://github.com/the-blog/the-blog/blob/master/pages/page-2.md)
+* [Оперативная память](https://github.com/the-blog/the-blog/blob/master/pages/page-3.md)
+* [Жесткий диск](https://github.com/the-blog/the-blog/blob/master/pages/page-4.md)
+* [Видео адаптер](https://github.com/the-blog/the-blog/blob/master/pages/page-5.md)
 
 ### Введение в языки программирования
 * Переменные
