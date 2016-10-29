@@ -6,6 +6,7 @@
 * [Оперативная память](https://github.com/the-blog/the-blog/blob/master/pages/page-3.md)
 * [Жесткий диск](https://github.com/the-blog/the-blog/blob/master/pages/page-4.md)
 * [Видео адаптер](https://github.com/the-blog/the-blog/blob/master/pages/page-5.md)
+* [Функционирование программ в рамках компьютерного устройства](https://github.com/the-blog/the-blog/blob/master/pages/page-6.md)
 
 ### Введение в языки программирования
 * Переменные
