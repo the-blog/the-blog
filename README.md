@@ -7,7 +7,7 @@
 
 ### Базовые понятия
 
-* Протокол
+* [Протокол](https://github.com/the-blog/the-blog/blob/master/pages/page-8.md)
 * [Интерфейс](https://github.com/the-blog/the-blog/blob/master/pages/page-7.md)
 * Контейнер
 * Контекст
