@@ -16,7 +16,7 @@
 
 * [Назначение ЯП](https://github.com/the-blog/the-blog/blob/master/pages/page-11.md)
 * [Низко и высоко уровневые ЯП](https://github.com/the-blog/the-blog/blob/master/pages/page-12.md)
-* Компилируемые и интерпритируемые ЯП
+* [Компилируемые и интерпритируемые ЯП](https://github.com/the-blog/the-blog/blob/master/pages/page-13.md)
 * Императивные и функциональные ЯП
 
 ### Обзор устройства компьютера
