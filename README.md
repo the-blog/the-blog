@@ -15,7 +15,7 @@
 ### О языках программирования
 
 * [Назначение ЯП](https://github.com/the-blog/the-blog/blob/master/pages/page-11.md)
-* Низко и высоко уровневые ЯП
+* [Низко и высоко уровневые ЯП](https://github.com/the-blog/the-blog/blob/master/pages/page-12.md)
 * Компилируемые и интерпритируемые ЯП
 * Императивные и функциональные ЯП
 
