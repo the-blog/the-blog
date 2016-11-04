@@ -10,7 +10,7 @@
 * [Протокол](https://github.com/the-blog/the-blog/blob/master/pages/page-8.md)
 * [Интерфейс](https://github.com/the-blog/the-blog/blob/master/pages/page-7.md)
 * [Контекст](https://github.com/the-blog/the-blog/blob/master/pages/page-9.md)
-* Контейнер
+* [Контейнер](https://github.com/the-blog/the-blog/blob/master/pages/page-10.md)
 
 ### О языках программирования
 
